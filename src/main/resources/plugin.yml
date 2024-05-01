@@ -1,0 +1,4 @@
+name: AguaLobby
+version: '${project.version}'
+main: p.agualobby.AguaLobby
+api-version: '1.16'
